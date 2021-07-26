@@ -1,9 +1,9 @@
 # Neue worter
-* Selbst
-* Jetzt
-* Fruchtbar
-* sehr lieb
-* leichtathletik
+* Selbst - even
+* Jetzt - now
+* Fruchtbar - fruitful
+* sehr lieb - very fond of
+* leichtathletik - atheletics
 
 # Sentances
 
